@@ -4,3 +4,6 @@ stage files - git add nameoffile
 Taking a snapshot of our staged files - git commit -m "commit message"
 To check whether you have stage your files - git status
 To check the list of commits - git log
+To switch between commits - git checkout commit ID
+to ignore files - create .gitignore
+To create branch - git branch branchname,git checkout -b branchname

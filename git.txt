@@ -1,0 +1,4 @@
+initialize empty repository - git init
+add files to staging area
+stage files - git add nameoffile
+Taking a snapshot of our staged files - git commit -m "commit message"

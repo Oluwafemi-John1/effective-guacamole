@@ -7,3 +7,4 @@ To check the list of commits - git log
 To switch between commits - git checkout commit ID
 to ignore files - create .gitignore
 To create branch - git branch branchname,git checkout -b branchname
+To switch between branches - git checkout branchname
